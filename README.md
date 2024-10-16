@@ -1,2 +1,4 @@
-A set of python scripts designed to analyse climate datafiles.
+A set of python scripts to analyse climate datafiles.
+
+***Currently under development.***
 
